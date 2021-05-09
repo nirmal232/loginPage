@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body bgcolor="ECEAAB">
+<br>
+<h4 align="center"><p style = "color:rgb(241, 26, 26)"> You have been successfully logged in !!!</p></h4>
+<h1 align="center"><p style = "color:rgb(77, 13, 228)">Welcome {{name}} !</p></h1>
+
+</body>
+</html>
